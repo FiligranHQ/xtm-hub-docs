@@ -1,11 +1,11 @@
-site_name: OpenBAS Documentation
-site_description: Documentation about OpenBAS, the next-generation Breach & Attack Simulation platform.
+site_name: XTM Hub Documentation
+site_description: Documentation about XTM Hub, the central forum to access resources, share tradecraft, and optimize the use of Filigran’s products, fostering collaboration and empowering the community.
 site_author: Filigran
-site_url: https://docs.openbas.io
-copyright: © 2024 Filigran. All rights reserved
+site_url: https://docs.xtmhub.filigran.io
+copyright: © 2025 Filigran. All rights reserved
 repo_name: GitHub
-repo_url: https://github.com/OpenBAS-Platform/openbas
-edit_uri: https://github.com/OpenBAS-Platform/docs/blob/main/docs/
+repo_url: https://github.com/FiligranHQ/xtm-hub-docs
+edit_uri: https://github.com/FiligranHQ/xtm-hub-docs/blob/main/docs/
 
 # Theming
 theme:
@@ -25,7 +25,7 @@ theme:
   palette:
     scheme: filigran
   font:
-    text: IBM Plex Sans
+    text: Geologica
     code: Roboto Mono
 # CSS
 extra_css:
@@ -40,8 +40,6 @@ extra:
     property: G-D12HQ64D7C
   generator: false
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/OpenBAS-Platform
     - icon: fontawesome/brands/medium
       link: https://blog.filigran.io
     - icon: fontawesome/brands/slack
@@ -60,8 +58,9 @@ plugins:
       canonical_version: latest
   - search
   - git-committers:
-      repository: OpenBAS-Platform/docs
+      repository: /FiligranHQ/xtm-hub-docs
       branch: main
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
@@ -109,81 +108,6 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: 'index.md'
-  - Deployment & Setup:
-    - Platform:
-      - Overview: deployment/overview.md
-      - Installation: deployment/installation.md
-      - Configuration: deployment/configuration.md
-      - Authentication: deployment/authentication.md
-      - Upgrade: deployment/upgrade.md
-    - Ecosystem:
-      - Executors: deployment/ecosystem/executors.md
-      - Injectors: deployment/ecosystem/injectors.md
-      - Collectors: deployment/ecosystem/collectors.md
-      - Integrations: deployment/integrations.md
-      - Other resources: deployment/resources.md
-    - Advanced:
-      - Clustering: deployment/clustering.md
-      - Troubleshooting: deployment/troubleshooting.md
+  - Home: "index.md"
   - User Guide:
-    - Getting started: usage/getting-started.md
-    - Foundations:
-      - Scenario and Simulations: usage/scenarios_and_simulations.md
-      - Injects and Expectations: usage/injects_and_expectations.md
-    - Evaluate your Security posture:
-      - Overview: usage/evaluate/overview.md
-      - Simulation: usage/simulation.md
-      - Atomic testing: usage/atomic.md
-      - Injects: usage/injects.md
-      - Targets: usage/targets.md
-      - Expectations: usage/expectations.md
-    - Build your own Threat Scenario:
-      - Scenario: usage/scenario.md
-      - Generating Scenario from OpenCTI: usage/scenario/opencti_scenario.md
-      - Importing injects into a Scenario: usage/scenario_import.md
-      - Assets: usage/assets.md
-      - People: usage/people.md
-      - Components:
-        - Documents: usage/components/documents.md
-        - Custom variables: usage/components/variables.md
-        - Channels: usage/components/channels.md
-        - Media pressure: usage/components/media_pressure.md
-        - Challenges: usage/components/challenges.md
-        - Lessons: usage/components/lessons.md
-      - Payloads: usage/payloads/payloads.md
-    - Share and export:
-      - Simulations: usage/simulation_reports.md
-    - Improve your security posture:
-      - Mitigations: usage/mitigations.md
-      - Skills: usage/skills.md
-    - Interact with your environment:
-      - Injectors:
-        - Overview: usage/injectors.md
-        - Built-In Injector: usage/injects_builtin.md
-        - Caldera Injector: usage/inject-caldera.md
-      - Collectors:
-        - Overview: usage/collectors.md
-      - Agents: usage/openbas-agent.md
-    - Rest API: usage/rest-api.md
-  - Administration:
-    - Introduction: administration/introduction.md
-    - Enterprise edition: administration/enterprise.md
-    - Platform settings:
-      - Parameters: administration/parameters.md
-      - Security:
-        - Policies: administration/policies.md
-        - Users and RBAC: administration/users.md
-  - Reference:
-      - APIs:
-          - Filters: reference/apis/filters.md
-  - Development:
-    - Prerequisites:
-      - Ubuntu: development/environment_ubuntu.md
-      - Windows: development/environment_windows.md
-    - Platform: development/platform.md
-    - Injectors: development/injectors.md
-    - REST API: development/api-usage.md
-
-
-
+      - Getting started: getting-started.md

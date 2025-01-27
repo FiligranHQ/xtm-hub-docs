@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This is the main repository of the XTM Hub Documentation space. The online version is available directly on [docs.openbas.io](https://docs.openbas.io).
+This is the main repository of the XTM Hub Documentation space. The online version is available directly on [docs.xtmhub.filigran.io](https://docs.xtmhub.filigran.io).
 
 ## Install the documentation locally
 
 ### Clone the repository
 ```sh
-$ git clone git@github.com:OpenBAS-Platform/docs.git
+$ git clone git@github.com:FiligranHQ/xtm-hub-docs.git
 ```
 
 ### Prepare the environment
@@ -30,6 +30,17 @@ $ venv\Scripts\Activate.ps1
 ### Install dependencies
 ```sh
 $ pip install -r requirements.txt
+```
+
+### As we are hosting the documentation on this private repository, you need to set the env vars the GitHub token to access it.
+You can create a token on your [GitHub account settings](https://github.com/settings/tokens) with these permissions:
+- Commit statuses => Access: Read and write
+- Contents => Access: Read and write
+- Metadata => Access: Read-only
+- Pages => Access: Read and write
+
+```
+export MKDOCS_GIT_COMMITTERS_APIKEY=[YOUR_GITHUB_TOKEN]
 ```
 
 ### Launch the local environment:
