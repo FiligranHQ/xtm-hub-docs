@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the main repository of the XTM Hub Documentation space. The online version is available directly on [docs.xtmhub.filigran.io](https://docs.hub.filigran.io).
+This is the main repository of the XTM Hub Documentation space. The online version is available directly on [docs.hub.filigran.io](https://docs.hub.filigran.io).
 
 ## Install the documentation locally
 
