@@ -16,7 +16,7 @@ XTM Hub is a central forum to access resources, share tradecraft, and optimize t
 
 <div class="grid cards" markdown>
 
--   :fontawesome-regular-compass:{ .lg .middle } __User Guide__
+-   :fontawesome-regular-compass:{ .lg .middle } __Developer Guide__
 
     ---
 

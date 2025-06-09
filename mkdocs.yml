@@ -109,5 +109,5 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: "index.md"
-  - User Guide:
+  - Developer Guide:
       - Getting started: getting-started.md
