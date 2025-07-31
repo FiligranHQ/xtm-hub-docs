@@ -111,5 +111,7 @@ nav:
   - Home: "index.md"
   - User Guide:
       - OpenCTI Registration: user/opencti-registration.md
+      - Custom dashboards: libraries/custom-dashboards.md
+      - Integration feeds: libraries/integration-feeds.md
   - Developer Guide:
       - Getting started: getting-started.md
