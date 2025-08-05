@@ -14,13 +14,22 @@ XTM Hub is a central forum to access resources, share tradecraft, and optimize t
 
 ## Getting started
 
+
 <div class="grid cards" markdown>
 
--   :fontawesome-regular-compass:{ .lg .middle } __Developer Guide__
+-   :fontawesome-regular-compass:{ .lg .middle } __User Guide__
 
     ---
 
-    Understand how to use the app.
+    Understand how to use the app integrated with Filigran products.
+
+    [:octicons-arrow-right-24:{ .middle } Explore](user/opencti-registration.md)
+
+-   :material-rocket-launch-outline:{ .lg .middle } __Developer Guide__
+
+    ---
+
+    Understand how to launch the app locally and contribute.
 
     [:octicons-arrow-right-24:{ .middle } Explore](getting-started.md)
 

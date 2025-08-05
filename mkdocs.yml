@@ -109,5 +109,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: "index.md"
+  - User Guide:
+      - OpenCTI Registration: user/opencti-registration.md
   - Developer Guide:
       - Getting started: getting-started.md
