@@ -1,7 +1,7 @@
 # OpenCTI platform registration
 
 
-To utilize features such as one-click deployments, your OpenCTI platform must be registered. 
+To utilize features such as one-click deployments, your OpenCTI platform must be registered (available from OpenCTI 6.7.10). 
 
 The registration process is initiated from your OpenCTI platform. For more detailed information, please refer to the [OpenCTI documentation](https://docs.opencti.io/latest/administration/hub).
 
