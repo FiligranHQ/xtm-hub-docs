@@ -5,9 +5,8 @@ The application collects statistical data related to its usage and performances.
 
 !!! note "Confidentiality"
 
-    The Xtm Hub platform does not collect any information related to threat intelligence knowledge which remains strictly confidential. Also, the collection is strictly anonymous and personally identifiable information is NOT collected (including IP addresses).
+    The Xtm Hub platform does not collect any personal information and personally identifiable information is NOT collected (including IP addresses).
 
-All data collected is anonymized and aggregated to protect the privacy of individual users, in compliance with all privacy regulations.
 
 
 ## Purpose of the telemetry
@@ -20,12 +19,11 @@ The collected data is used for the following purposes:
 
 ## Telemetry metrics
 
-The application collects statistical data related to its usage. Here are an exhaustive list of the collected metrics:
+The application collects data related to its usage. Here are an exhaustive list of the collected metrics:
 
-- The number of active users
-- The number of service subscribed by library type 
-- The number of shared resources by service library type
-- The number of downloaded resources by service library type
-- The number of resources created by service
-- The number of registered platforms on xtm hub by organization type and service library
-- The number of one-click-deployed resources by service library
+- logins with user internal identifier
+- internal identifier and name of organization (user mail in case of personal space).
+- services subscribed per user and organization
+- internal identifier and title of resources created, shared, and downloaded
+- internal identifier and type of contract of open cti platforms registered.
+- platform and resource internal identifiers of resources one-click-deployed
