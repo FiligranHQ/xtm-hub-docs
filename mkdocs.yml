@@ -115,3 +115,6 @@ nav:
       - OpenCTI Integration feeds library: libraries/integration-feeds.md
   - Developer Guide:
       - Getting started: getting-started.md
+  - Reference:
+      - Deployment and stack:
+          - usage-telemetry.md
