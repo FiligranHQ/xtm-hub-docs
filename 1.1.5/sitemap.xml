@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/getting-started/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/usage-telemetry/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/libraries/custom-dashboards/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/libraries/integration-feeds/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.xtmhub.filigran.io/latest/user/opencti-registration/</loc>
+         <lastmod>2025-09-16</lastmod>
+    </url>
+</urlset>
