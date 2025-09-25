@@ -116,6 +116,7 @@ nav:
         - Integration Feeds library: libraries/integration-feeds.md
       - OpenAEV:
         - Registration: user/openaev-registration.md
+        - Scenarios library: libraries/openaev-scenarios.md
   - Developer Guide:
       - Getting started: getting-started.md
   - Reference:
