@@ -110,9 +110,13 @@ markdown_extensions:
 nav:
   - Home: "index.md"
   - User Guide:
-      - OpenCTI Registration: user/opencti-registration.md
-      - OpenCTI Custom Dashboards library: libraries/custom-dashboards.md
-      - OpenCTI Integration feeds library: libraries/integration-feeds.md
+      - OpenCTI:
+        - Registration: user/opencti-registration.md
+        - Custom Dashboards library: libraries/custom-dashboards.md
+        - Integration Feeds library: libraries/integration-feeds.md
+      - OpenAEV:
+        - Registration: user/openaev-registration.md
+        - Scenarios library: libraries/openaev-scenarios.md
   - Developer Guide:
       - Getting started: getting-started.md
   - Reference:

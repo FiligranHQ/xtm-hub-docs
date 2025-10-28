@@ -1,4 +1,4 @@
-# OpenCTI Integration Feeds library
+# OpenCTI Integration Feeds Library
 
 A comprehensive library of integration feeds is now available on the XTM Hub, 
 providing seamless access to curated threat intelligence data. 
