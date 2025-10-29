@@ -3,7 +3,7 @@
 
 To utilize features such as one-click deployments, your OpenAEV platform must be registered (available from OpenAEV 2.0.0).
 
-The registration process is initiated from your OpenAEV platform. For more detailed information, please refer to the [OpenAEV documentation](https://docs.openbas.io/latest/administration/hub).
+The registration process is initiated from your OpenAEV platform. For more detailed information, please refer to the [OpenAEV documentation](https://docs.openaev.io/latest/administration/hub).
 
 ## View a list of your registered OpenAEV platforms
 

@@ -55,7 +55,7 @@ to upload and configure the feed according to your specific requirements.
 ### One-Click Deployment
 The streamlined deployment process represents the most efficient method for integrating scenarios
 into your OpenAEV platform (available from OpenAEV X.X.X).
-Before utilizing this functionality, your OpenAEV platform must be properly registered in the XTM Hub (see [OpenAEV registration documentation](/user/openaev-registration)),
+Before utilizing this functionality, your OpenAEV platform must be properly registered in the XTM Hub (see [OpenAEV registration documentation](../user/openaev-registration.md)),
 and your user account must possess the necessary UPDATE and CREATE permissions for scenarios within OpenAEV. 
 The deployment process is straightforward: select your desired scenario tile, click the ```Deploy in OpenAEV``` button, 
 choose your target platform if multiple platforms are registered, 
