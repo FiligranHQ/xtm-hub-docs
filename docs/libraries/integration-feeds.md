@@ -85,7 +85,7 @@ Additionally, we provide advanced filtering capabilities to help you quickly dis
 ### One-Click Deployment
 The streamlined deployment process represents the most efficient method for integrating library connectors
 into your OpenCTI platform (available from OpenCTI 6.7.10).
-Before utilizing this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](/user/opencti-registration)),
+Before using this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](/user/opencti-registration)),
 and your user account must possess the necessary UPDATE and CREATE permissions for Connectors within OpenCTI.
 The deployment process is straightforward: select your desired Connector, click the ```Deploy in OpenCTI``` button,
 choose your target platform if multiple platforms are registered, this will open the configuration drawer in OpenCTI where you can fill in information.
