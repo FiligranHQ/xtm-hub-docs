@@ -78,7 +78,7 @@ https://docs.opencti.io/latest/deployment/connectors/
 ### Connector Exploration
 The XTM Hub offers multiple options for working with OpenCTI connectors. 
 You can browse all available connectors for OpenCTI, with each connector providing links to installation resources and documentation.
-If your OpenCTI platform is registered in the XTM Hub, you can use the one-click deployment feature to deploy connectors directly to your OpenCTI instance.
+If your OpenCTI platform is registered in the XTM Hub, you can use the one-click deployment feature to deploy connectors directly into your OpenCTI platform.
 
 Additionally, we provide advanced filtering capabilities to help you quickly discover connectors that align with your specific threat intelligence requirements and use cases.
 
