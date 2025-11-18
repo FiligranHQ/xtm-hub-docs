@@ -72,7 +72,7 @@ accessibility of threat intelligence data across different organizational bounda
 ![Top right buttons](../assets/images/one-click-deploy.png)
 
 ## Working with Connectors
-If you don’t know what connector is you can check this link for further information:
+If you don’t know what a connector is you can check this link for further information:
 https://docs.opencti.io/latest/deployment/connectors/
 
 ### Connector Exploration
