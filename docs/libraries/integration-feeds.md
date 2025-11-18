@@ -102,4 +102,4 @@ accessibility of threat intelligence resources across different organizational b
 Successful integration with the XTM Hub requires attention to several technical considerations. 
 Users deploying feeds must maintain appropriate OpenCTI permissions, 
 including UPDATE/CREATE capability for CSV Feeds. 
-Platform registration involves enrolling OpenCTI platforms in the XTM Hub.
+Platform registration involves registering OpenCTI platforms in the XTM Hub.
