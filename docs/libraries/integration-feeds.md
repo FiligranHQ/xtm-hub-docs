@@ -106,9 +106,38 @@ accessibility of threat intelligence data across different organizational bounda
 
 ![Top right buttons](../assets/images/one-click-deploy.png)
 
+## Working with Connectors
+If you don’t know what a connector is you can check this link for further information:
+https://docs.opencti.io/latest/deployment/connectors/
+
+### Connector Exploration
+The XTM Hub offers multiple options for working with OpenCTI connectors. 
+You can browse all available connectors for OpenCTI, with each connector providing links to installation resources and documentation.
+If your OpenCTI platform is registered in the XTM Hub, you can use the one-click deployment feature to deploy connectors directly into your OpenCTI platform.
+
+Additionally, we provide advanced filtering capabilities to help you quickly discover connectors that align with your specific threat intelligence requirements and use cases.
+
+### One-Click Deployment
+The streamlined deployment process represents the most efficient method for integrating library connectors
+into your OpenCTI platform (available from OpenCTI 6.7.10).
+Before using this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](/user/opencti-registration)),
+and your user account must possess the necessary UPDATE and CREATE permissions for Connectors within OpenCTI.
+The deployment process is straightforward: select your desired Connector, click on the ```Deploy in OpenCTI``` button,
+choose your target platform if multiple platforms are registered, this will open the configuration drawer in OpenCTI where you can fill in your information.
+
+### Sharing and Collaboration
+The XTM Hub facilitates seamless collaboration through its comprehensive sharing functionality.
+Users can generate universal links for any Connector, enabling cross-organization sharing with partners,
+clients, or team members without requiring recipients to maintain XTM Hub accounts.
+This approach removes barriers to information sharing while maintaining the integrity and
+accessibility of threat intelligence resources across different organizational boundaries.
+
+
 ## Technical Requirements and Best Practices
 
 Successful integration with the XTM Hub requires attention to several technical considerations. 
 Users deploying feeds must maintain appropriate OpenCTI permissions, 
 including UPDATE/CREATE capability for CSV Feeds.
 Platform registration involves enrolling OpenCTI platforms in the XTM Hub.
+including UPDATE/CREATE capability for CSV Feeds. 
+Platform registration involves registering OpenCTI platforms in the XTM Hub.
