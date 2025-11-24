@@ -78,7 +78,7 @@ Before using this functionality, your OpenCTI platform must be properly register
 The deployment process is straightforward: select your desired compatible Integration Feed tile, click on the ```Deploy on OpenCTI``` button, 
 choose your target platform if multiple platforms are registered, 
 and wait a few seconds until successful integration is confirmed in your OpenCTI platform. 
-That will open the import drawer and you must fill required information to deploy the Integration Feed.
+That will open the import drawer and you must fill the required information to deploy the Integration Feed.
 
 ## Specific feed type considerations
 
