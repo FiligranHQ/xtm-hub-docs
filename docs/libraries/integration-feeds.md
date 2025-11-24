@@ -73,7 +73,7 @@ accessibility of threat intelligence data across different organizational bounda
 The streamlined deployment process represents the most efficient method for integrating library feeds
 into your OpenCTI platform (available from OpenCTI 6.7.10).
 
-Before utilizing this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)). 
+Before using this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)). 
 
 The deployment process is straightforward: select your desired compatible Integration Feed tile, click the ```Deploy on OpenCTI``` button, 
 choose your target platform if multiple platforms are registered, 
