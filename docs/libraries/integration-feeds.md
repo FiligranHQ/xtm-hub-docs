@@ -75,7 +75,7 @@ into your OpenCTI platform (available from OpenCTI 6.7.10).
 
 Before using this functionality, your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)). 
 
-The deployment process is straightforward: select your desired compatible Integration Feed tile, click the ```Deploy on OpenCTI``` button, 
+The deployment process is straightforward: select your desired compatible Integration Feed tile, click on the ```Deploy on OpenCTI``` button, 
 choose your target platform if multiple platforms are registered, 
 and wait a few seconds until successful integration is confirmed in your OpenCTI platform. 
 That will open the import drawer and you must fill required information to deploy the Integration Feed.
