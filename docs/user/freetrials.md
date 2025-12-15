@@ -2,7 +2,7 @@
 
 ## Start an OpenCTI free trial
 
-Starting a trial gives users access to a dedicated OpenCTI instance for evaluation. 
+Starting a trial gives users access to a dedicated OpenCTI Enterprise Edition platform for 30 days.
 Each organization is generally entitled to only one free trial. Trials cannot be started for personal organizations.
 
 If Filigran does not have enough capacity to host the trial in the requested region, the user will be notified and 
@@ -14,13 +14,13 @@ The status of a trial is shown on its details page. It can be one of the followi
 
 | Status       | Description                                                                                                                        |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Active       | The Trial is on-going                                                                                                              | 
-| Pending      | The request has been submitted and is awaiting internal validation to be deployed.                                                 |
-| Provisioning | The request is getting provisioned.                                                                                                |
+| Active       | The trial is on-going                                                                                                              | 
+| Pending      | The trial request has been submitted and is awaiting internal validation to be deployed.                                           |
+| Provisioning | The trial request is getting provisioned.                                                                                          |
 | Requested    | Trial quotas have been reached. <br>The Trial is placed on a waiting list and user will be notified once a slot becomes available. |                                                                                                                           |
-| Cancelled    | The Trial has been cancelled.                                                                                                      |
+| Cancelled    | The trial has been cancelled.                                                                                                      |
 | Failed       | The trial provisioning failed due to some technical reasons.                                                                       |
-| Expired      | The Trial period has ended and access is no longer active.                                                                         |
+| Expired      | The trial period has ended and access is no longer active.                                                                         |
 
 ### Enterprise License
 
@@ -39,7 +39,7 @@ If Filigran encounters operational capacity limitations, your trial might be can
 
 ## Contact Us
 
-Selecting **Contact Us**, from XTM-HUB, or from the free trial instance, sends the user’s inquiry directly to our **Sales team**.
+Selecting **Contact Us**, from XTM-HUB, or from the free trial platform, sends the user’s inquiry directly to our **Sales team**.
 
 Use this option for questions related to licensing, enterprise packages, pricing, or expansions.
 
