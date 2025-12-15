@@ -43,13 +43,23 @@ Selecting **Contact Us**, from XTM-HUB, or from the free trial platform, sends t
 
 Use this option for questions related to licensing, enterprise packages, pricing, or expansions.
 
-## User Group Mapping (Hub → OCTI)
 
-To ensure consistent permissions across systems, user roles in XTM Hub map directly to OCTI roles:
+## Connection on your OpenCTI free trial
 
+Once OpenCTI is activated, administrators in your organization will have the ability to grant access to other users. By default, the user requesting the trial will be assigned the admin role.
+
+![free-trial-page.png](../assets/images/free-trial-page-details.png)
+
+On this page, click on "Manage Users" to open a drawer where you can assign roles to users within your organization.
+
+![free-trial-manage-user.png](../assets/images/free-trial-manage-user.png)
+
+Only users with an assigned role will be able to access the free trial instance.
+After assigning roles, users can log in using the same credentials as their XTM Hub account.
+
+### User Group Mapping (Hub → OpenCTI)!
+To ensure consistent permissions across systems, user roles in XTM Hub map directly to your OpenCTI free trial roles:
 - **Reader**
 - **Admin**
 - **Analyst**
-
-This ensures aligned and predictable access across both platforms.
 
