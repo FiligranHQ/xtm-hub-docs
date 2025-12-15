@@ -111,6 +111,7 @@ nav:
   - Home: "index.md"
   - User Guide:
       - OpenCTI:
+        - Free Trials: user/freetrials.md
         - Registration: user/opencti-registration.md
         - Custom Dashboards library: libraries/custom-dashboards.md
         - Integration Feeds library: libraries/integration-feeds.md
