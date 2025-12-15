@@ -17,7 +17,7 @@ The status of a trial is shown on its details page. It can be one of the followi
 | Active       | The trial is on-going                                                                                                              | 
 | Pending      | The trial request has been submitted and is awaiting internal validation to be deployed.                                           |
 | Provisioning | The trial request is getting provisioned.                                                                                          |
-| Requested    | Trial quotas have been reached. <br>The Trial is placed on a waiting list and user will be notified once a slot becomes available. |                                                                                                                           |
+| Requested    | Trial quotas have been reached. <br>The trial is placed on a waiting list and user will be notified once a slot becomes available. |                                                                                                                           |
 | Cancelled    | The trial has been cancelled.                                                                                                      |
 | Failed       | The trial provisioning failed due to some technical reasons.                                                                       |
 | Expired      | The trial period has ended and access is no longer active.                                                                         |
@@ -30,7 +30,7 @@ The trial comes with an EE license, with all the EE functionalities from OpenCTI
 
 ### Trial Duration
 
-All standard trials last **30 days**. The trial’s start and end dates are displayed on the trial details page.
+All standard trials last **30 days**. The trial’s start and end dates are displayed on the trial's details page.
 
 ### Cancellation
 You can cancel your free trial at any time from the trial details page.
