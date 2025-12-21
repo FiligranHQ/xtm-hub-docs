@@ -37,7 +37,7 @@ extra:
     provider: mike
   analytics:
     provider: google
-    property: G-D12HQ64D7C
+    property: G-Y8RZPDF0HQ
   generator: false
   social:
     - icon: fontawesome/brands/medium
