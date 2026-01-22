@@ -258,4 +258,4 @@ Refer to the authentication documentation for detailed setup instructions.
 
 ---
 
-**Ready to contribute?** Check out our [beginner-friendly issues](https://github.com/FiligranHQ/xtm-hub/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) and [contributing guide](CONTRIBUTING.md).
+**Ready to contribute?** Check out our [beginner-friendly issues](https://github.com/FiligranHQ/xtm-hub/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) and [contributing guide](https://github.com/FiligranHQ/xtm-hub/blob/development/CONTRIBUTING.md).
