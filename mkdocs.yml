@@ -114,7 +114,7 @@ nav:
         - Free Trials: user/freetrials.md
         - Registration: user/opencti-registration.md
         - Custom Dashboards library: libraries/custom-dashboards.md
-        - Integration Feeds library: libraries/integration-feeds.md
+        - Integrations library: libraries/integrations.md
       - OpenAEV:
         - Registration: user/openaev-registration.md
         - Scenarios library: libraries/openaev-scenarios.md
