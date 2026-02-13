@@ -28,7 +28,7 @@ $ venv\Scripts\Activate.ps1
 
 ### Install dependencies
 ```sh
-$ pip install -r ../requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ### As we are hosting the documentation on this private repository, you need to set the env vars the GitHub token to access it.
