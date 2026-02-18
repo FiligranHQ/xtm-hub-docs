@@ -110,6 +110,8 @@ markdown_extensions:
 nav:
   - Home: "index.md"
   - User Guide:
+      - XTM Hub:
+          - Manage your organization: user/manage-organization.md
       - OpenCTI:
         - Free Trials: user/freetrials.md
         - Registration: user/opencti-registration.md
