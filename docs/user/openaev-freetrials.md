@@ -60,13 +60,11 @@ After assigning roles, users can log in using the same credentials as their XTM 
 ### User Group Mapping (Hub → OpenAEV)!
 To ensure consistent permissions across systems, user roles in XTM Hub map directly to your OpenAEV free trial roles:
 
-- **Observer**: A read-only role that allows access to view all data in the platform without the ability to make any modifications. 
-Ideal for users who only need to consume information.
+- **Admin**: The administrator role with full access to platform settings, configuration, and management.
+  Admins can manage users, roles, and system-wide settings, in addition to having full visibility and control over the elements.
 
-- **Admin**: The administrator role with full access to platform settings, configuration, and management. 
-Admins can manage users, roles, and system-wide settings, in addition to having full visibility and control over the data.
+- **Manager**: A role with full capabilities to manage and run any type of scenario.
+  Manager can modify any element in the platform but do not have access to platform settings, administration, or configuration options.
 
-- **Manager**: A role with full access to all knowledge within the platform. 
-Analysts can create, edit, and manage entities, relationships, and investigations, 
-but do not have access to platform settings, administration, or configuration options.
-
+- **Observer**: A read-only role that allows access to view all elements in the platform without the ability to make any modifications.
+  Ideal for users who only need to consume information.
