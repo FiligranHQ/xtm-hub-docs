@@ -48,11 +48,11 @@ Use this option for questions related to licensing, enterprise packages, pricing
 
 Once OpenCTI is activated, administrators in your organization will have the ability to grant access to other users. By default, the user requesting the trial will be assigned the admin role.
 
-![free-trial-page.png](../assets/images/free-trial-page-details.png)
+![opencti-free-trial-page.png](../assets/images/opencti-free-trial-page-details.png)
 
 On this page, click on "Manage Users" to open a drawer where you can assign roles to users within your organization.
 
-![free-trial-manage-user.png](../assets/images/free-trial-manage-user.png)
+![opencti-free-trial-manage-user.png](../assets/images/opencti-free-trial-manage-user.png)
 
 Only users with an assigned role will be able to access the free trial instance.
 After assigning roles, users can log in using the same credentials as their XTM Hub account.

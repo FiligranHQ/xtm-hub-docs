@@ -113,11 +113,12 @@ nav:
       - XTM Hub:
           - Manage your organization: user/manage-organization.md
       - OpenCTI:
-        - Free Trials: user/freetrials.md
+        - Free Trials: user/opencti-freetrials.md
         - Registration: user/opencti-registration.md
         - Custom Dashboards library: libraries/custom-dashboards.md
         - Integrations library: libraries/integrations.md
       - OpenAEV:
+        - Free Trials: user/openaev-freetrials.md
         - Registration: user/openaev-registration.md
         - Scenarios library: libraries/openaev-scenarios.md
   - Developer Guide:
