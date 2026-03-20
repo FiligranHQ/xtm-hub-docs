@@ -126,6 +126,8 @@ The Connector card and Connectors details page also indicates whether the Connec
 ![Connector card automatic deploy](../assets/images/connector-card-automatic-deploy.png)
 ![Connector details automatic deploy](../assets/images/connector-details-automatic-deploy.png)
 
+Some Connectors also display a **Verified** badge. This badge means the Connector is **Verified & SaaS ready**: it has been reviewed and validated by Filigran, ensuring it meets quality and compatibility standards for SaaS environments.
+
 ## Technical Requirements and Best Practices
 
 Successful Integration with the XTM Hub requires attention to several technical considerations. 
