@@ -112,7 +112,6 @@ nav:
   - User Guide:
       - XTM Hub:
           - Manage your organization: user/manage-organization.md
-          - Access public roadmap: user/roadmap.md
       - OpenCTI:
         - Free Trials: user/opencti-freetrials.md
         - Registration: user/opencti-registration.md
