@@ -44,7 +44,7 @@ Selecting **Contact Us**, from XTM-HUB, or from the free trial platform, sends t
 Use this option for questions related to licensing, enterprise packages, pricing, or expansions.
 
 
-## Connection on your OpenCTI free trial
+## Manage users on your OpenCTI free trial
 
 Once OpenCTI is activated, administrators in your organization will have the ability to grant access to other users. By default, the user requesting the trial will be assigned the admin role.
 
