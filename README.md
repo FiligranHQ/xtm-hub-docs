@@ -12,6 +12,7 @@ $ git clone git@github.com:FiligranHQ/xtm-hub-docs.git
 ```
 
 ### Prepare the environment
+Use python 3.12.11 or higher and create a virtual environment:
 ```sh
 $ python3 -m venv venv
 ```
