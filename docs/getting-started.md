@@ -98,6 +98,12 @@ yarn start-dev
 
 The API will be available at `http://localhost:4002`
 
+Note: the first time, you need to enable corepack
+```bash
+corepack enable
+corepack prepare yarn@4.12.0 --activate
+```
+
 #### Terminal 3: Start frontend server
 
 ```bash
@@ -118,6 +124,8 @@ Once everything is running:
 - **MinIO Console**: http://localhost:8902
 - **PgAdmin**: http://localhost:8888 (portal@filigran.io / portal-password)
 - **MailPit**: http://localhost:8025
+
+You can log in with default user admin@filigran.io / admin
 
 ## Development workflow
 
