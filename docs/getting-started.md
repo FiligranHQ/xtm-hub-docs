@@ -65,6 +65,10 @@ Create a local configuration file at `portal-api/config/local.json`:
     "port": 1025,
     "secure": false,
     "from": "no-reply@localhost"
+  },
+  "session": { // Used to keep sessions in memory for development when the backend keeps restarting.
+    "name": "cloud-portal",
+    "secret": "anythingShouldWorkForDev" 
   }
 }
 ```
