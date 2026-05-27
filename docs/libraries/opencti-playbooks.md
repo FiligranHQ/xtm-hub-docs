@@ -30,7 +30,7 @@ where the complete library catalog can be viewed along with playbook description
 details without requiring any connection or subscription.
 
 The first time a member of your organization opens the OpenCTI Playbooks Library tile from the Hub home page,
-your organization is automatically subscribed to the service in one step — no confirmation dialog is shown.
+your organization is automatically subscribed to the service in one step.
 Subscription is free and instantly grants access to all users in your organization without any additional steps or recurring costs.
 
 ## Working with Playbooks
