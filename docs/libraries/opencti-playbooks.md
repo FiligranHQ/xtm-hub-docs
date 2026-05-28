@@ -12,11 +12,11 @@ The OpenCTI playbooks library represents a significant advancement in threat int
 The library features pre-built [playbooks](https://docs.opencti.io/latest/usage/playbook-automation/) that have been curated by the Filigran team,
 ensuring high-quality, relevant automation content.
 
-**Playbooks are an OpenCTI Enterprise Edition feature** — running a playbook on your OpenCTI platform requires an EE license, whether the playbook is deployed in one click from the Hub or downloaded and imported manually.
+**Playbooks are an OpenCTI Enterprise Edition feature** running a playbook on your OpenCTI platform requires an EE license, whether the playbook is deployed in one click from the Hub or downloaded and imported manually.
 
 All users can browse the library on the XTM Hub completely free of charge, with or without authentication, and read the full details of each playbook before deciding to deploy it.
 
-Note that most playbooks require additional configuration once imported into OpenCTI — typically setting up connectors, labels, markings, or specific entities — before they can run. Each playbook's description on the Hub indicates its specific setup requirements.
+Note that most playbooks require additional configuration once imported into OpenCTI, typically setting up connectors, labels, markings, or specific entities — before they can run. Each playbook's description on the Hub indicates its specific setup requirements.
 
 ## Getting Started
 
