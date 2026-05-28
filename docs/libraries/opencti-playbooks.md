@@ -8,12 +8,15 @@ Currently, the library focuses on playbooks that can be directly deployed to Ope
 
 ## Overview
 
-The XTM Hub playbooks library represents a significant advancement in threat intelligence automation accessibility.
-The library features pre-built playbooks that have been curated by the Filigran team,
+The OpenCTI playbooks library represents a significant advancement in threat intelligence automation accessibility.
+The library features pre-built [playbooks](https://docs.opencti.io/latest/usage/playbook-automation/) that have been curated by the Filigran team,
 ensuring high-quality, relevant automation content.
-Organizations running OpenCTI Enterprise Edition can benefit from one-click deployment capabilities that integrate directly with their registered OpenCTI platforms,
-while all users maintain completely free access to browse and download playbooks without any cost barriers.
-Additionally, the platform supports public browsing, allowing users to explore available playbooks without requiring authentication.
+
+**Playbooks are an OpenCTI Enterprise Edition feature** — running a playbook on your OpenCTI platform requires an EE license, whether the playbook is deployed in one click from the Hub or downloaded and imported manually.
+
+All users can browse the library on the XTM Hub completely free of charge, with or without authentication, and read the full details of each playbook before deciding to deploy it.
+
+Note that most playbooks require additional configuration once imported into OpenCTI — typically setting up connectors, labels, markings, or specific entities — before they can run. Each playbook's description on the Hub indicates its specific setup requirements.
 
 ## Getting Started
 
@@ -54,10 +57,10 @@ into their OpenCTI platforms. This process involves downloading the playbook JSO
 navigating to your OpenCTI platform under `Data → Processing → Automation`, and using the standard Import functionality
 to upload and configure the playbook according to your specific requirements.
 
-### One-Click Deployment (OpenCTI Enterprise Edition only)
+### One-Click Deployment
 
 The streamlined deployment process represents the most efficient method for integrating library playbooks
-into your OpenCTI platform. **This functionality requires an OpenCTI Enterprise Edition license.**
+into your OpenCTI platform.
 
 Before utilizing this functionality, the following prerequisites must be met:
 
