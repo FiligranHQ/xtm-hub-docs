@@ -117,6 +117,7 @@ nav:
         - Free Trials: user/opencti-freetrials.md
         - Registration: user/opencti-registration.md
         - Custom Dashboards library: libraries/custom-dashboards.md
+        - Custom Views library: libraries/opencti-custom-views.md
         - Integrations library: libraries/integrations.md
         - Playbooks library: libraries/opencti-playbooks.md
       - OpenAEV:
