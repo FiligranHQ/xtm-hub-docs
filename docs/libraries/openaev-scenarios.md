@@ -15,34 +15,24 @@ while maintaining completely free access without any cost barriers.
 Additionally, the product supports public browsing, allowing users to explore available scenarios without requiring authentication.
 
 ## Getting Started
-### Initial Subscription
-Before accessing the full functionality of the OpenAEV scenario library, 
-your organization must complete a one-time subscription process. 
-A designated person from your organization needs to subscribe to the library, 
-which is completely free and serves as an enablement step for all subsequent users. 
-Once this initial subscription is completed, all users from your organization will 
-gain automatic access to the full range of services without any additional steps or recurring costs.
-
-![Subscribe to OpenAEV scenarios](../assets/images/subscribe-openaev-scenarios.png)
-
 
 ### Accessing the Library
 The XTM Hub provides two distinct access methods to accommodate different user needs. 
 Authenticated access offers the complete feature set, 
 including the ability to browse and download OpenAEV scenarios, 
-deploy feeds directly to OpenAEV platforms, 
-and access detailed feed information and metadata. 
+deploy scenarios directly to OpenAEV platforms, 
+and access detailed scenario information and metadata. 
 For users who prefer to explore before committing, 
 public access provides read-only capabilities through the cybersecurity-solutions portal, 
-where the complete library catalog can be viewed along with feed descriptions and 
+where the complete library catalog can be viewed along with scenario descriptions and 
 details without requiring any connection or subscription.
 
 ## Working with OpenAEV scenarios
-### Feed Exploration
+### Scenario Exploration
 The XTM Hub provides comprehensive information when you interact with any scenario tile in the library. 
 Each scenario includes detailed specifications and content descriptions to help you make informed decisions about integration. 
 Download options are readily available for users who prefer manual import processes, 
-while sharing capability allow you to generate shareable links that facilitate easy 
+while sharing capabilities allow you to generate shareable links that facilitate easy 
 collaboration with team members and external partners.
 
 ### Manual Import to OpenAEV
@@ -50,7 +40,7 @@ Organizations that prefer traditional import methods can
 easily download desired OpenAEV scenarios from the library and manually integrate them
 into their OpenAEV platforms. This process involves downloading the scenario, 
 navigating to your OpenAEV product, and using the standard Import functionality 
-to upload and configure the feed according to your specific requirements. 
+to upload and configure the scenario according to your specific requirements. 
 
 ### One-Click Deployment
 The streamlined deployment process represents the most efficient method for integrating scenarios
@@ -72,6 +62,6 @@ accessibility of threat intelligence data across different organizational bounda
 
 ## Technical Requirements and Best Practices
 Successful integration with the XTM Hub requires attention to several technical considerations. 
-Users deploying feeds must maintain appropriate OpenAEV permissions, 
+Users deploying scenarios must maintain appropriate OpenAEV permissions, 
 including UPDATE/CREATE capability for OpenAEV scenarios. 
 Platform registration involves enrolling OpenAEV platforms in the XTM Hub.
