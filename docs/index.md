@@ -6,7 +6,7 @@ hide:
 
 # XTM Hub Documentation Space
 
-Welcome to the XTM Hub Documentation space. Here you will be able to find all documents, meeting notes and presentations about the platform.
+Welcome to the XTM Hub Documentation space. Here you will be able to find all documents, meeting notes and presentations about the product.
 
 ## Introduction
 
@@ -65,7 +65,7 @@ Below, you will find external resources which may be useful along your XTM Hub j
 Training courses for analysts and administrators in the Filigran training center.
 
 [**:material-youtube:{ .middle } Video materials**](https://www.youtube.com/@Filigran/videos)<br />
-Set of video illustrating the implementation of use cases and platform capabilities.
+Set of video illustrating the implementation of use cases and product capabilities.
 
 </div>
 <br /><br /><br />

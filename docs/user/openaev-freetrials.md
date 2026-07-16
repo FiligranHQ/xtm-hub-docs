@@ -2,7 +2,7 @@
 
 ## Start an OpenAEV free trial
 
-Starting a trial gives users access to a dedicated OpenAEV Enterprise Edition platform for 30 days.
+Starting a trial gives users access to a dedicated OpenAEV Enterprise Edition product for 30 days.
 Each organization is generally entitled to only one free trial. Trials cannot be started for personal organizations.
 
 If Filigran does not have enough capacity to host the trial in the requested region, the user will be notified and 
@@ -39,7 +39,7 @@ If Filigran encounters operational capacity limitations, your trial might be can
 
 ## Contact Us
 
-Selecting **Contact Us**, from XTM-HUB, or from the free trial platform, sends the user’s inquiry directly to our **Sales team**.
+Selecting **Contact Us**, from XTM-HUB, or from the free trial product, sends the user’s inquiry directly to our **Sales team**.
 
 Use this option for questions related to licensing, enterprise packages, pricing, or expansions.
 
@@ -54,17 +54,17 @@ On this page, click on "Manage Users" to open a drawer where you can assign role
 
 ![opeaev-free-trial-manage-user.png](../assets/images/openaev-free-trial-manage-user.png)
 
-Only users with an assigned role will be able to access the free trial instance.
+Only users with an assigned role will be able to access the free trial product.
 After assigning roles, users can log in using the same credentials as their XTM Hub account.
 
 ### User Group Mapping (Hub → OpenAEV)!
 To ensure consistent permissions across systems, user roles in XTM Hub map directly to your OpenAEV free trial roles:
 
-- **Admin**: The administrator role with full access to platform settings, configuration, and management.
+- **Admin**: The administrator role with full access to product settings, configuration, and management.
   Admins can manage users, roles, and system-wide settings, in addition to having full visibility and control over the elements.
 
 - **Manager**: A role with full capabilities to manage and run any type of scenario.
-  Manager can modify any element in the platform but do not have access to platform settings, administration, or configuration options.
+  Manager can modify any element in the product but do not have access to product settings, administration, or configuration options.
 
-- **Observer**: A read-only role that allows access to view all elements in the platform without the ability to make any modifications.
+- **Observer**: A read-only role that allows access to view all elements in the product without the ability to make any modifications.
   Ideal for users who only need to consume information.

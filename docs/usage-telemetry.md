@@ -5,7 +5,7 @@ The application collects statistical data related to its usage and performances.
 
 !!! note "Confidentiality"
 
-    The Xtm Hub platform does not collect any personal information and personally identifiable information is NOT collected (including IP addresses).
+    The Xtm Hub product does not collect any personal information and personally identifiable information is NOT collected (including IP addresses).
 
 
 
@@ -25,4 +25,4 @@ The application collects data related to its usage. Here are an exhaustive list 
 - services subscribed per user and organization
 - internal identifier and title of resources created, shared, and downloaded
 - internal identifier and type of contract of open cti platforms registered.
-- platform and resource internal identifiers of resources one-click-deployed
+- product and resource internal identifiers of resources one-click-deployed
