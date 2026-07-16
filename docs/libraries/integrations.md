@@ -39,7 +39,7 @@ details without requiring any connection or subscription.
 ### Integration Exploration
 
 The XTM Hub provides comprehensive information when you interact with any Integration tile in the library. 
-Each Integration includes detailed specifications and content descriptions to help you make informed decisions about integration.
+Each Integration includes detailed specifications and content descriptions to help you make informed decisions about any integration.
 
 Download options are readily available for users who prefer manual import processes, 
 while sharing capabilities allow you to generate shareable links that facilitate easy 
