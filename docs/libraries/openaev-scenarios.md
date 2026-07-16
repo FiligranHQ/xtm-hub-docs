@@ -12,7 +12,7 @@ The library features pre-built scenarios that have been curated by the Filigran 
 ensuring high-quality, relevant threat intelligence data.
 Organizations can benefit from one-click deployment capabilities that integrate directly with registered OpenAEV platforms, 
 while maintaining completely free access without any cost barriers. 
-Additionally, the platform supports public browsing, allowing users to explore available scenarios without requiring authentication.
+Additionally, the product supports public browsing, allowing users to explore available scenarios without requiring authentication.
 
 ## Getting Started
 ### Initial Subscription
@@ -49,17 +49,17 @@ collaboration with team members and external partners.
 Organizations that prefer traditional import methods can 
 easily download desired OpenAEV scenarios from the library and manually integrate them
 into their OpenAEV platforms. This process involves downloading the scenario, 
-navigating to your OpenAEV platform, and using the standard Import functionality 
+navigating to your OpenAEV product, and using the standard Import functionality 
 to upload and configure the feed according to your specific requirements. 
 
 ### One-Click Deployment
 The streamlined deployment process represents the most efficient method for integrating scenarios
-into your OpenAEV platform (available from OpenAEV X.X.X).
-Before utilizing this functionality, your OpenAEV platform must be properly registered in the XTM Hub (see [OpenAEV registration documentation](../user/openaev-registration.md)),
+into your OpenAEV product (available from OpenAEV X.X.X).
+Before utilizing this functionality, your OpenAEV product must be properly registered in the XTM Hub (see [OpenAEV registration documentation](../user/openaev-registration.md)),
 and your user account must possess the necessary UPDATE and CREATE permissions for scenarios within OpenAEV. 
 The deployment process is straightforward: select your desired scenario tile, click the ```Deploy in OpenAEV``` button, 
-choose your target platform if multiple platforms are registered, 
-and wait a few seconds until successful integration is confirmed in your OpenAEV platform. You will see the new scenario in the list. 
+choose your target product if multiple platforms are registered, 
+and wait a few seconds until successful integration is confirmed in your OpenAEV product. You will see the new scenario in the list. 
 
 ### Sharing and Collaboration
 The XTM Hub facilitates seamless collaboration through its comprehensive sharing functionality. 

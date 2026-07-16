@@ -40,7 +40,7 @@ Administrators can update capabilities for any team member. They cannot update t
   Allows the user to invite new members to the organization.
 
 - **MANAGE PLATFORM REGISTRATION**  
-  Allows the user to register and unregister platforms.
+  Allows the user to connect and disconnect platforms.
 
 - **MANAGE SUBSCRIPTION**  
   Allows the user to manage and subscribe the organization to services.

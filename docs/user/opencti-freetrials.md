@@ -2,7 +2,7 @@
 
 ## Start an OpenCTI free trial
 
-Starting a trial gives users access to a dedicated OpenCTI Enterprise Edition platform for 30 days.
+Starting a trial gives users access to a dedicated OpenCTI Enterprise Edition product for 30 days.
 Each organization is generally entitled to only one free trial. Trials cannot be started for personal organizations.
 
 If Filigran does not have enough capacity to host the trial in the requested region, the user will be notified and 
@@ -39,7 +39,7 @@ If Filigran encounters operational capacity limitations, your trial might be can
 
 ## Contact Us
 
-Selecting **Contact Us**, from XTM-HUB, or from the free trial platform, sends the user’s inquiry directly to our **Sales team**.
+Selecting **Contact Us**, from XTM-HUB, or from the free trial product, sends the user’s inquiry directly to our **Sales team**.
 
 Use this option for questions related to licensing, enterprise packages, pricing, or expansions.
 
@@ -54,15 +54,15 @@ On this page, click on "Manage Users" to open a drawer where you can assign role
 
 ![opencti-free-trial-manage-user.png](../assets/images/opencti-free-trial-manage-user.png)
 
-Only users with an assigned role will be able to access the free trial instance.
+Only users with an assigned role will be able to access the free trial product.
 After assigning roles, users can log in using the same credentials as their XTM Hub account.
 
 ### User Group Mapping (Hub → OpenCTI)!
 To ensure consistent permissions across systems, user roles in XTM Hub map directly to your OpenCTI free trial roles:
 
-- **Reader**: A read-only role that allows access to view all data in the platform without the ability to make any modifications. Ideal for users who only need to consume information.
+- **Reader**: A read-only role that allows access to view all data in the product without the ability to make any modifications. Ideal for users who only need to consume information.
 
-- **Admin**: The administrator role with full access to platform settings, configuration, and management. Admins can manage users, roles, and system-wide settings, in addition to having full visibility and control over the data.
+- **Admin**: The administrator role with full access to product settings, configuration, and management. Admins can manage users, roles, and system-wide settings, in addition to having full visibility and control over the data.
 
-- **Analyst**: A role with full access to all knowledge within the platform. Analysts can create, edit, and manage entities, relationships, and investigations, but do not have access to platform settings, administration, or configuration options.
+- **Analyst**: A role with full access to all knowledge within the product. Analysts can create, edit, and manage entities, relationships, and investigations, but do not have access to product settings, administration, or configuration options.
 
