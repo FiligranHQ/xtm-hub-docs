@@ -6,7 +6,7 @@ hide:
 
 # XTM Hub Documentation Space
 
-Welcome to the XTM Hub Documentation space. Here you will be able to find all documents, meeting notes and presentations about the product.
+Welcome to the XTM Hub Documentation. Here you'll find comprehensive documentation covering all the features and functionality of XTM Hub.
 
 ## Introduction
 
