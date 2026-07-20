@@ -5,7 +5,7 @@ The application collects statistical data related to its usage and performances.
 
 !!! note "Confidentiality"
 
-    The Xtm Hub product does not collect any personal information and personally identifiable information is NOT collected (including IP addresses).
+    The Xtm Hub does not collect any personal information and personally identifiable information is NOT collected (including IP addresses).
 
 
 
