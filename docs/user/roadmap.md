@@ -1,6 +1,6 @@
 # Access our public roadmap
 
-Product managers share the public roadmap of each product on this page. The roadmap includes the full XTM product solutions:
+Product managers share the public roadmap of each product on this page. The roadmap includes the full XTM platform solutions:
 - OpenCTI
 - OpenAEV
 - OpenGRC
