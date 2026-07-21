@@ -24,5 +24,5 @@ The application collects data related to its usage. Here are an exhaustive list 
 - internal identifier and name of organization (user mail in case of personal space).
 - services subscribed per user and organization
 - internal identifier and title of resources created, shared, and downloaded
-- internal identifier and type of contract of open cti platforms registered.
+- internal identifier and type of contract of OpenCTI products connected.
 - product and resource internal identifiers of resources one-click-deployed

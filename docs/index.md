@@ -23,7 +23,7 @@ XTM Hub is a central forum to access resources, share tradecraft, and optimize t
 
     Understand how to use the app integrated with Filigran products.
 
-    [:octicons-arrow-right-24:{ .middle } Explore](user/opencti-registration.md)
+    [:octicons-arrow-right-24:{ .middle } Explore](user/opencti-connection.md)
 
 -   :material-rocket-launch-outline:{ .lg .middle } __Developer Guide__
 

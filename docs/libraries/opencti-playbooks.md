@@ -2,7 +2,7 @@
 
 A comprehensive library of playbooks is now available on the XTM Hub,
 providing seamless access to curated automation workflows.
-Currently, the library focuses on playbooks that can be directly deployed to OpenCTI platforms and created by our Filigran Team.
+Currently, the library focuses on playbooks that can be directly deployed to OpenCTI products and created by our Filigran Team.
 
 ![Playbooks Library](../assets/images/opencti-playbooks-lib.png)
 
@@ -25,7 +25,7 @@ Note that most playbooks require additional configuration once imported into Ope
 The XTM Hub provides two distinct access methods to accommodate different user needs.
 Authenticated access offers the complete feature set,
 including the ability to browse and download playbooks,
-deploy playbooks directly to OpenCTI Enterprise Edition platforms,
+deploy playbooks directly to OpenCTI Enterprise Edition products,
 and access detailed playbook information and metadata.
 For users who prefer to explore before committing,
 public access provides read-only capabilities through the [Hub public portal](https://hub.filigran.io/),
@@ -49,7 +49,7 @@ You can search by name and filter playbooks by use case to quickly locate releva
 
 Organizations that prefer traditional import methods can
 easily download desired playbooks from the library and manually integrate them
-into their OpenCTI platforms. This process involves downloading the playbook JSON file,
+into their OpenCTI products. This process involves downloading the playbook JSON file,
 navigating to your OpenCTI product under `Data → Processing → Automation`, and using the standard Import functionality
 to upload and configure the playbook according to your specific requirements.
 
@@ -60,17 +60,17 @@ into your OpenCTI product.
 
 Before utilizing this functionality, the following prerequisites must be met:
 
-- Your OpenCTI product must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)).
+- Your OpenCTI product must be properly connected in the XTM Hub (see [OpenCTI connection documentation](../user/opencti-connection.md)).
 - The target product must run an **Enterprise Edition** license.
 - Your user account must possess the necessary CREATE and UPDATE permissions for playbooks within OpenCTI.
 
 The deployment process is straightforward: select your desired playbook, click the `Deploy in OpenCTI` button,
-choose your target product if multiple platforms are registered,
+choose your target product if multiple products are connected,
 and wait a few seconds until you are redirected to your OpenCTI product where the playbook is created and ready to use.
 
 ![Top right buttons](../assets/images/one-click-deploy.png)
 
-If none of your registered OpenCTI platforms is running an Enterprise Edition license,
+If none of your connected OpenCTI products is running an Enterprise Edition license,
 the `Deploy in OpenCTI` button is displayed with an **[EE]** badge.
 Clicking the badge opens a side panel that explains the Enterprise Edition feature and lets you contact our sales team to learn more.
 In this case, you can still download the playbook JSON file and import it manually following the steps described above.
@@ -88,5 +88,5 @@ accessibility of automation content across different organizational boundaries.
 Successful integration with the XTM Hub requires attention to several technical considerations.
 Users deploying playbooks must maintain appropriate OpenCTI permissions,
 including CREATE/UPDATE capability for playbooks.
-Platform registration involves enrolling OpenCTI platforms in the XTM Hub,
+Product connection involves enrolling OpenCTI products in the XTM Hub,
 and one-click deployment additionally requires an OpenCTI Enterprise Edition license on the target product.

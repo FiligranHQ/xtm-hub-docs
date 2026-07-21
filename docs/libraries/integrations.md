@@ -3,7 +3,7 @@
 A comprehensive library of Integrations is available on the XTM Hub, providing seamless access to curated threat intelligence data. 
 
 Currently, the library proposes CSV Feeds, TAXII Feeds, OpenCTI Streams, Third Party Integrations and Connectors.
-Depending on the type of Integration, you can either use One Click Deploy or download and import it to OpenCTI platforms.
+Depending on the type of Integration, you can either use one click Deploy or download and import it to OpenCTI products.
 
 ![Integrations library](../assets/images/integration-feeds-lib.png)
 
@@ -13,7 +13,7 @@ The XTM Hub Integrations library represents a significant advancement in threat 
 The library features pre-built Integrations that have been curated by the Filigran team, 
 ensuring high-quality, relevant threat intelligence data.
 
-Organizations can benefit from one-click deployment capabilities that integrate directly with registered OpenCTI platforms, 
+Organizations can benefit from one-click deployment capabilities that integrate directly with connected OpenCTI products, 
 while maintaining completely free access without any cost barriers. 
 
 Additionally, the product supports public browsing, allowing users to explore available Integrations without requiring authentication.
@@ -26,7 +26,7 @@ The XTM Hub provides two distinct access methods to accommodate different user n
 
 Authenticated access offers the complete feature set, 
 including the ability to browse and download Integrations, 
-deploy feeds directly to OpenCTI platforms, 
+deploy feeds directly to connected OpenCTI products, 
 and access detailed feed information and metadata. 
 
 For users who prefer to explore before committing, 
@@ -50,7 +50,7 @@ You can filter feeds by:
 
 - Use case
 - Integration Feed type (CSV Feed, Connector, etc.)
-- Platform compatibility (with registered OpenCTI platforms)
+- Product compatibility (with connected OpenCTI products)
 - Deployment mode (automatic or manual)
 
 ### Sharing and Collaborating
@@ -69,10 +69,10 @@ accessibility of threat intelligence data across different organizational bounda
 The streamlined deployment process represents the most efficient method for integrating library feeds
 into your OpenCTI product (available from OpenCTI 6.7.10).
 
-Before using this functionality, your OpenCTI product must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)). 
+Before using this functionality, your OpenCTI product must be properly connected in the XTM Hub (see [OpenCTI connection documentation](../user/opencti-connection.md)). 
 
 The deployment process is straightforward: select your desired compatible Integration tile, click on the ```Deploy on OpenCTI``` button, 
-choose your target product if multiple platforms are registered, 
+choose your target product if multiple products are connected, 
 and wait a few seconds until successful integration is confirmed in your OpenCTI product. 
 That will open the import drawer, and you must fill in the required information to deploy the Integration.
 
@@ -88,7 +88,7 @@ One click deployment is currently available for
 
 Organizations that prefer traditional import methods can
 easily download the desired integration from the library and manually integrate them
-into their OpenCTI platforms. This process involves downloading the Integration file,
+into their OpenCTI products. This process involves downloading the Integration file,
 navigating to your OpenCTI product, and using the standard Import functionality
 to upload and configure the Integration according to your specific requirements.
 
@@ -98,7 +98,7 @@ If you don’t know what a connector is you can check this link for further info
 [OpenCTI Connectors Documentation](https://docs.opencti.io/latest/deployment/connectors/)
 
 All CSV feeds are compatible with every OpenCTI version, whereas Connectors require a minimum product version. 
-You can verify whether a Connector is compatible with your registered platforms on both the Connector card:
+You can verify whether a Connector is compatible with your connected products on both the Connector card:
 
 ![Connector card incompatibility tooltip](../assets/images/connector-card-incompatibility-tooltip.png)
 
@@ -120,4 +120,3 @@ Some Connectors also display a **Verified** badge. This badge means the Connecto
 Successful integration with the XTM Hub requires attention to several technical considerations. 
 Users deploying feeds must maintain appropriate OpenCTI permissions, 
 including UPDATE/CREATE capability for CSV Feeds, TAXII Feeds, OpenCTI Streams, Third Party Integrations or Connectors. 
-Platform registration involves registering OpenCTI platforms in the XTM Hub.
