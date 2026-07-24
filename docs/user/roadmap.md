@@ -6,7 +6,7 @@ Product managers share the public roadmap of each product on this page. The road
 - XTM One
 - XTM Hub
 
-This feature is directly available within your subscribed services. You can also access the public roadmap from the Filigran public website:[https://hub.filigran.io/cybersecurity-solutions/public-roadmap/](https://hub.filigran.io/cybersecurity-solutions/public-roadmap/).
+This feature is directly available on the homepage. You can also access the public roadmap from the Filigran public website: [https://hub.filigran.io/cybersecurity-solutions/public-roadmap/](https://hub.filigran.io/cybersecurity-solutions/public-roadmap/).
 
 ## Viewing the roadmap
 Once you access the roadmap page, you will see a set of cards representing upcoming features across the different products.
