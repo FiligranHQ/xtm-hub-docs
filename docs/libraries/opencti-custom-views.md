@@ -5,12 +5,11 @@ providing seamless access to curated, role-specific intelligence views.
 Currently, the library focuses on custom views that can be directly deployed to OpenCTI platforms and created by our Filigran Team.
 
 ![Custom Views Library](../assets/images/opencti-custom-views-lib.png)
-TODO: add image once the library has some custom views
 
 ## Overview
 
 The OpenCTI custom views library represents a significant advancement in analyst productivity and threat intelligence accessibility.
-A [custom view](https://docs.opencti.io/latest/usage/custom-views/) (TODO: add image once the library has some custom views) is a widget-based dashboard scoped to a specific entity type
+A [custom view](https://docs.opencti.io/latest/usage/custom-views/) is a widget-based dashboard scoped to a specific entity type
 (such as Malware, Campaign, or Vulnerability) that surfaces the most relevant information as a dedicated tab directly on entity detail pages.
 Instead of navigating across multiple tabs and datasets, analysts see contextual intelligence panels right where they work.
 
@@ -73,7 +72,7 @@ choose your target platform if multiple platforms are registered,
 and wait a few seconds until you are redirected to your OpenCTI platform where the custom view is created.
 The target entity type of the view is passed automatically, so the view is created against the right entity type without any additional configuration.
 
-![Top right buttons](../assets/images/one-click-deploy.png) (TODO: add image once the library has some custom views)
+![Top right buttons](../assets/images/one-click-deploy.png)
 
 ### Sharing and Collaboration
 
