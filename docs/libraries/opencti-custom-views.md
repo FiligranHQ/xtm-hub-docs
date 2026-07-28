@@ -2,7 +2,7 @@
 
 A comprehensive library of custom views is now available on the XTM Hub,
 providing seamless access to curated, role-specific intelligence views.
-Currently, the library focuses on custom views that can be directly deployed to OpenCTI platforms and created by our Filigran Team.
+Currently, the library focuses on custom views that can be directly deployed to OpenCTI products and created by our Filigran Team.
 
 ![Custom Views Library](../assets/images/opencti-custom-views-lib.png)
 
@@ -25,7 +25,7 @@ and read the full details of each custom view before deciding to deploy it.
 The XTM Hub provides two distinct access methods to accommodate different user needs.
 Authenticated access offers the complete feature set,
 including the ability to browse and download custom views,
-deploy custom views directly to OpenCTI platforms,
+deploy custom views directly to OpenCTI products,
 and access detailed view information and metadata.
 For users who prefer to explore before committing,
 public access provides read-only capabilities through the [Hub public portal](https://hub.filigran.io/),
@@ -53,23 +53,23 @@ You can search by name and filter custom views by **entity type** and by use cas
 
 Organizations that prefer traditional import methods can
 easily download desired custom views from the library and manually integrate them
-into their OpenCTI platforms. This process involves downloading the custom view JSON file,
-navigating to your OpenCTI platform under `Settings → Customization → Entity type → Custom Views`,
+into their OpenCTI products. This process involves downloading the custom view JSON file,
+navigating to your OpenCTI product under `Settings → Customization → Entity type → Custom Views`,
 and using the `Import a custom view` functionality to upload the configuration.
 
 ### One-Click Deployment
 
 The streamlined deployment process represents the most efficient method for integrating library custom views
-into your OpenCTI platform.
+into your OpenCTI product.
 
 Before utilizing this functionality, the following prerequisites must be met:
 
-- Your OpenCTI platform must be properly registered in the XTM Hub (see [OpenCTI registration documentation](../user/opencti-registration.md)).
+- Your OpenCTI product must be properly connected in the XTM Hub (see [OpenCTI connection documentation](../user/opencti-registration.md)).
 - Your user account must possess the necessary `Manage customization` capability within OpenCTI.
 
 The deployment process is straightforward: select your desired custom view, click the `Deploy in OpenCTI` button,
-choose your target platform if multiple platforms are registered,
-and wait a few seconds until you are redirected to your OpenCTI platform where the custom view is created.
+choose your target product if multiple products are connected,
+and wait a few seconds until you are redirected to your OpenCTI product where the custom view is created.
 The target entity type of the view is passed automatically, so the view is created against the right entity type without any additional configuration.
 
 ![Top right buttons](../assets/images/one-click-deploy.png)
@@ -87,4 +87,4 @@ accessibility of intelligence views across different organizational boundaries.
 Successful integration with the XTM Hub requires attention to several technical considerations.
 Users deploying custom views must maintain appropriate OpenCTI permissions,
 including the `Manage customization` capability.
-Platform registration involves enrolling OpenCTI platforms in the XTM Hub.
+Product connection involves connecting OpenCTI products in the XTM Hub.
