@@ -81,7 +81,18 @@ The Organization Administrator must approve their request before they can join t
 
 You can click user by user if you're not sure, but don't hesitate to click them all!
 
-Every Monday at 9:00 AM (Paris' time), a summary email is sent to the administrator listing all pending user requests that have not yet been approved.
+Every Monday at 9:00 AM (Paris' time), a summary email is sent to users with the **ADMINISTRATE ORGANIZATION** capability when there is at least one pending user request.
+
+This digest lists all users who are still pending at send time. If requests remain pending, they continue to appear in the Monday digest until approved or denied.
+
+![Pending user digest email illustration](../assets/images/pending-user-digest-email.png)
+
+From this email, you can use **Approve** or **Deny** action links for each pending user:
+
+1. Click **Approve** or **Deny** in the email.
+2. You are redirected to XTM Hub (you may need to log in first).
+3. Confirm the action in the modal.
+4. Continue reviewing the remaining requests in **Users** > **User Requests**.
 
 ![Approve user illustration](../assets/images/approve-user.png)
 
