@@ -81,9 +81,9 @@ The Organization Administrator must approve their request before they can join t
 
 You can click user by user if you're not sure, but don't hesitate to click them all!
 
-Every Monday at 9:00 AM (Paris' time), a summary email is sent to users with the **ADMINISTRATE ORGANIZATION** capability when there is at least one pending user request.
+Every Monday at 9:00 AM (Europe/Paris), a summary email is sent to Organization Administrators (users with the **ADMINISTRATE ORGANIZATION** capability) when there is at least one pending user request.
 
-This digest lists all users who are still pending at send time. If requests remain pending, they continue to appear in the Monday digest until approved or denied.
+This digest lists all users who are still pending at the time of sending. If requests remain pending, they continue to appear in the Monday digest until approved or denied.
 
 ![Pending user digest email illustration](../assets/images/pending-user-digest-email.png)
 
